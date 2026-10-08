@@ -1,0 +1,9 @@
+ESTRUTURA DO SITE
+
+Coloque esta pasta no seu projeto/serviço de hospedagem.
+
+index.html
+app.js
+assets/convite-modelo-base.png
+
+A correção faz o tema do convite quebrar em linhas e reduzir a fonte automaticamente quando necessário.
